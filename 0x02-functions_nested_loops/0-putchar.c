@@ -1,6 +1,10 @@
 #include "main.h"
 
-
+/**
+ * main - Prints _putchar with a new line.
+ *
+ * Return: Always 0 (Success)
+ */
 int main(void)
 {
 	_putchar('-');
